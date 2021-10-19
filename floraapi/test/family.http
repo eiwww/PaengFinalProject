@@ -1,0 +1,11 @@
+GET http://localhost:8000/family/F12
+
+
+####
+POST http://localhost:8000/family
+header name: header value
+
+content
+
+###
+DELETE url HTTP/1.1

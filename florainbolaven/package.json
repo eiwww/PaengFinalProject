@@ -1,0 +1,36 @@
+{
+  "name": "florainbolaven",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "apexcharts": "^3.27.3",
+    "axios": "^0.21.1",
+    "core-js": "^3.15.1",
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "i": "^0.3.6",
+    "jspdf": "^2.3.1",
+    "luxon": "^2.0.1",
+    "nuxt": "^2.15.7",
+    "nuxt-gmaps": "^1.2.10",
+    "vue-apexcharts": "^1.6.1",
+    "vue-datetime": "^1.0.0-beta.14",
+    "vue-json-to-csv": "^1.1.8",
+    "vuetify": "^2.5.5",
+    "vuetify-pdfjs": "^1.1.0",
+    "weekstart": "^1.1.0",
+    "xlsx": "^0.17.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
